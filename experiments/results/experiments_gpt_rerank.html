@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe ReRank Experiments</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe ReRank Experiments</h1>
+       
+        <!-- Form di Selezione -->
+        <form id="selectionForm">
+            <div class="form-group">
+                <label for="recipeSelect">Chose Recipe:</label>
+                <select class="form-control" id="recipeSelect">
+                    <!-- Le opzioni verranno aggiunte qui tramite JavaScript -->
+                </select>
+            </div>
+
+            <button type="button" id="submitButton" class="btn btn-primary">Update Results</button>
+        </form>
+
+        <!-- Sezione per i Risultati -->
+        <div id="results" class="mt-3">
+            <!-- I risultati filtrati saranno visualizzati qui -->
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        const dataUrl = '../../data/experiment_results_with_gpt_and_similarity_k_10.json'; // Assicurati che il percorso sia corretto
+        let experimentsData = [];
+
+        $(document).ready(function() {
+            $.getJSON(dataUrl, function(data) {
+                experimentsData = data;
+                populateRecipeSelect(experimentsData);
+            }).fail(function() {
+                console.error("Errore nel caricamento dei dati degli esperimenti");
+            });
+
+            $('#submitButton').click(function() {
+                const selectedRecipeName = $('#recipeSelect').val();
+                updateResults(selectedRecipeName);
+            });
+        });
+
+        function populateRecipeSelect(data) {
+            let recipeSelect = $('#recipeSelect');
+            let uniqueRecipeNames = [];
+            
+            data.forEach(function(experiment) {
+                if (!uniqueRecipeNames.includes(experiment.recipe_name)) {
+                    uniqueRecipeNames.push(experiment.recipe_name);
+                    recipeSelect.append(`<option value="${experiment.recipe_name}">${experiment.recipe_name}</option>`);
+                }
+            });
+        }
+
+        function updateResults(selectedRecipeName) {
+    let filteredData = experimentsData.filter(experiment => experiment.recipe_name === selectedRecipeName);
+    const resultsDiv = $('#results');
+    resultsDiv.empty();
+
+    if (filteredData.length > 0) {
+        // Mostra i dettagli della ricetta in input
+        let inputRecipeHtml = '<div class="input-recipe-details">';
+            inputRecipeHtml += `<h3>Selected Recipe Details: ${selectedRecipeName}</h3>`;
+
+        // Aggiungi altri dettagli della ricetta in input qui
+        inputRecipeHtml += '</div>';
+
+        resultsDiv.append(inputRecipeHtml);
+
+            // Supponiamo che le informazioni dettagliate siano disponibili nel primo elemento di filteredData
+            const recipeDetails = filteredData[0];
+
+            // Mostra i dettagli della ricetta selezionata
+
+            let detailsHtml = '<div class="input-recipe-details">';
+            detailsHtml += '<p><strong>Recipe Name:</strong> ' + recipeDetails.recipe_name + '</p>';
+            detailsHtml += '<p><strong>Recipe ID:</strong> ' + recipeDetails.recipe_id + '</p>';
+            detailsHtml += '<p><strong>Who Score:</strong> ' + recipeDetails.who_score.toFixed(3) + '</p>';
+            detailsHtml += '<p><strong>Healthiness Label:</strong> ' + recipeDetails.healthiness_label + ' (0=highly healthy, 1=moderately healthy, 2=not healthy)</p>';
+            detailsHtml += '<p><strong>Sustainability Score:</strong> ' + recipeDetails.sustnability_score.toFixed(3) + '</p>';
+            detailsHtml += '<p><strong>Sustainability Label:</strong> ' + recipeDetails.sustnability_label + ' (0=highly sustainable, 1=moderately sustainable, 2=not sustainable)</p>';
+            detailsHtml += '</div>';
+
+            resultsDiv.append(detailsHtml);
+
+                    // Aggiungi la descrizione del logo di GPT
+        let gptDescriptionHtml = '<div class="gpt-logo-description" style="margin-top: 20px;">';
+        gptDescriptionHtml += '<img src="images/gpt-logo.png" alt="GPT Logo" style="width: 20px; height: 20px; vertical-align: middle;"/> indicates the recipe chosen by GPT-3.5-turbo as the most recommended.';
+        gptDescriptionHtml += '</div>';
+
+        resultsDiv.append(gptDescriptionHtml);
+
+        // Inizia la tabella dei risultati
+        let tableHtml = '<table class="table">';
+        tableHtml += '<thead><tr><th>Title</th><th>Similarity Score</th><th>Healthiness Increase (%)</th><th>Sustainability Increase (%)</th><th>SustainaMeal Score Increase (%)</th></tr></thead>';
+        tableHtml += '<tbody>';
+
+        filteredData.forEach(function(experiment) {
+            experiment.ordered_by_sustainameal.forEach(function(recipe) {
+                const getColor = (value) => value > 0 ? 'style="color:green;"' : 'style="color:red;"';
+                let condition = experiment.gpt_choice.toLowerCase().includes(recipe.title.toLowerCase()) || recipe.title.toLowerCase().includes(experiment.gpt_choice.toLowerCase());
+                let gptLogoHtml = condition ? '<img src="images/gpt-logo.png" alt="GPT Logo" style="width: 20px; height: 20px; margin-right: 5px;"/>' : '';
+
+                tableHtml += '<tr>';
+                tableHtml += `<td>${gptLogoHtml}${recipe.title}</td>`;
+                tableHtml += `<td>${recipe.similarity_score.toFixed(3)}</td>`;
+                tableHtml += `<td ${getColor(recipe.healthiness_increment)}>${recipe.healthiness_increment.toFixed(2)}</td>`;
+                tableHtml += `<td ${getColor(recipe.sustainability_increment)}>${recipe.sustainability_increment.toFixed(2)}</td>`;
+                tableHtml += `<td ${getColor(recipe.sustainameal_score_increment)}>${recipe.sustainameal_score_increment.toFixed(2)}</td>`;
+                tableHtml += '</tr>';
+            });
+        });
+
+        tableHtml += '</tbody></table>';
+        resultsDiv.append(tableHtml);
+
+
+    } else {
+        resultsDiv.html('<p>No matching results found.</p>');
+
+    }
+}
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,3002 @@
+[
+    {
+        "recipe_name": "Easy Lasagna - No Ricotta",
+        "recipe_id": 317761,
+        "sustnability_score": 0.6594095694000001,
+        "sustnability_label": 2,
+        "who_score": 0.216553288,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                307768,
+                "Weight Watchers Chicken and Rice Stuffed Bell Peppers",
+                0.99130591875641
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Weight Watchers Chicken and Rice Stuffed Bell Peppers",
+                "similarity_score": 0.99130591875641,
+                "who_score": 0.210833775889538,
+                "healthiness_increment": -2.641156892893971,
+                "sustainability_score": 0.6771934231123062,
+                "sustainability_increment": 98.82925717650785,
+                "sustainameal_score": 0.5372855289454758,
+                "sustainameal_score_increment": 77.10026708011888
+            }
+        ]
+    },
+    {
+        "recipe_name": "Spicy Homemade Hamburger Helper",
+        "recipe_id": 85128,
+        "sustnability_score": 0.5645580895,
+        "sustnability_label": 2,
+        "who_score": 0.20371660860000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                158227,
+                "Fillet Bubbly Bake",
+                0.9952766447615328
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Fillet Bubbly Bake",
+                "similarity_score": 0.9952766447615328,
+                "who_score": 0.2542242703533026,
+                "healthiness_increment": 24.793099643211868,
+                "sustainability_score": 0.6629159788394667,
+                "sustainability_increment": 52.23981955534909,
+                "sustainameal_score": 0.5403084662936174,
+                "sustainameal_score_increment": 47.65579570708983
+            }
+        ]
+    },
+    {
+        "recipe_name": "Gram's Goulash Soup",
+        "recipe_id": 150376,
+        "sustnability_score": 0.5515232161,
+        "sustnability_label": 2,
+        "who_score": 0.21144830990000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                322927,
+                "Apple Cheese Sausage Balls",
+                0.9834307399284603
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Apple Cheese Sausage Balls",
+                "similarity_score": 0.9834307399284603,
+                "who_score": 0.2132448607858443,
+                "healthiness_increment": 0.8496406960358335,
+                "sustainability_score": 0.7055214232377064,
+                "sustainability_increment": 57.31503803363691,
+                "sustainameal_score": 0.5578384545021478,
+                "sustainameal_score_increment": 47.82337060044583
+            }
+        ]
+    },
+    {
+        "recipe_name": "Nana's Shepherd's Pie",
+        "recipe_id": 132931,
+        "sustnability_score": 0.6369090772,
+        "sustnability_label": 2,
+        "who_score": 0.2128744918,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                68667,
+                "Tomato, Sausage and Bean Pasta",
+                0.9927189108138506
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Tomato, Sausage and Bean Pasta",
+                "similarity_score": 0.9927189108138506,
+                "who_score": 0.2128174603174602,
+                "healthiness_increment": -0.02679114462963198,
+                "sustainability_score": 0.7874402628221201,
+                "sustainability_increment": 116.87137113457023,
+                "sustainameal_score": 0.615053422070722,
+                "sustainameal_score_increment": 93.39721738900775
+            }
+        ]
+    },
+    {
+        "recipe_name": "Down-home Meatloaf",
+        "recipe_id": 121221,
+        "sustnability_score": 0.5662773191,
+        "sustnability_label": 2,
+        "who_score": 0.23341359020000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                243785,
+                "\" Glazed\" Meatloaf",
+                0.9973335036022707
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "\" Glazed\" Meatloaf",
+                "similarity_score": 0.9973335036022707,
+                "who_score": 0.2360426929392446,
+                "healthiness_increment": 1.1263709119651912,
+                "sustainability_score": 0.43270675374603496,
+                "sustainability_increment": -0.23423425976857207,
+                "sustainameal_score": 0.3737075355039978,
+                "sustainameal_score_increment": 0.02076435703284401
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beef  Chuck Stew",
+        "recipe_id": 287995,
+        "sustnability_score": 0.5727492485,
+        "sustnability_label": 2,
+        "who_score": 0.2097782625,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                178519,
+                "Beef, Potatoes & Beans",
+                0.9977296900029465
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Beef, Potatoes & Beans",
+                "similarity_score": 0.9977296900029465,
+                "who_score": 0.2672080433101315,
+                "healthiness_increment": 27.3764212694805,
+                "sustainability_score": 0.350235622712033,
+                "sustainability_increment": -18.02574449103719,
+                "sustainameal_score": 0.32532734889146253,
+                "sustainameal_score_increment": -10.132802062660422
+            }
+        ]
+    },
+    {
+        "recipe_name": "Roast Beef with Glazed Onions and Worcestershire Gravy",
+        "recipe_id": 72925,
+        "sustnability_score": 0.5531335853,
+        "sustnability_label": 2,
+        "who_score": 0.2636830666,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                245545,
+                "Moroccan Lamb Kebabs",
+                0.9976301972914134
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Moroccan Lamb Kebabs",
+                "similarity_score": 0.9976301972914134,
+                "who_score": 0.345691217663536,
+                "healthiness_increment": 31.101030542911623,
+                "sustainability_score": 0.231438026845748,
+                "sustainability_increment": -48.208677306046766,
+                "sustainameal_score": 0.2657139840910844,
+                "sustainameal_score_increment": -32.20049808890056
+            }
+        ]
+    },
+    {
+        "recipe_name": "Turkey-beef Kebabs",
+        "recipe_id": 91064,
+        "sustnability_score": 0.5632092713,
+        "sustnability_label": 2,
+        "who_score": 0.27246688150000004,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                8060,
+                "Carla's Basic Meatballs",
+                0.9963004766701571
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Carla's Basic Meatballs",
+                "similarity_score": 0.9963004766701571,
+                "who_score": 0.2425044091710758,
+                "healthiness_increment": -10.99673918333578,
+                "sustainability_score": 0.43660853158779234,
+                "sustainability_increment": -0.04171267184455904,
+                "sustainameal_score": 0.3783772948627773,
+                "sustainameal_score_increment": -2.3526273087728
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mushroom-Stuffed Hamburger Steaks",
+        "recipe_id": 33386,
+        "sustnability_score": 0.6464212398,
+        "sustnability_label": 2,
+        "who_score": 0.24671008,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                185767,
+                "Filipino Roast Leg of Lamb With Sarsa",
+                0.998065482731384
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Filipino Roast Leg of Lamb With Sarsa",
+                "similarity_score": 0.998065482731384,
+                "who_score": 0.2357142857142857,
+                "healthiness_increment": -4.456970030244679,
+                "sustainability_score": 0.20995613608886843,
+                "sustainability_increment": -40.61969786548352,
+                "sustainameal_score": 0.2176835809764936,
+                "sustainameal_score_increment": -32.29508915385122
+            }
+        ]
+    },
+    {
+        "recipe_name": "Grilled Lobsters With Italian-Style Stuffing",
+        "recipe_id": 368489,
+        "sustnability_score": 0.6977720561,
+        "sustnability_label": 2,
+        "who_score": 0.2791105121,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                40080,
+                "Chilled Shrimp in Chinese Mustard Sauce",
+                0.9940022882123639
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Chilled Shrimp in Chinese Mustard Sauce",
+                "similarity_score": 0.9940022882123639,
+                "who_score": 0.2108465608465608,
+                "healthiness_increment": -24.457678344689445,
+                "sustainability_score": 0.7801773890210733,
+                "sustainability_increment": 158.14204302896462,
+                "sustainameal_score": 0.6093781405687194,
+                "sustainameal_score_increment": 106.3640959963043
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hamburger-Chili Noodle Casserole",
+        "recipe_id": 71695,
+        "sustnability_score": 0.6596539386,
+        "sustnability_label": 2,
+        "who_score": 0.2466380071,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                202929,
+                "Creamy Pork Chops, Mushroom and Potato Casserole",
+                0.9955394787526588
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Creamy Pork Chops, Mushroom and Potato Casserole",
+                "similarity_score": 0.9955394787526588,
+                "who_score": 0.2425907425907425,
+                "healthiness_increment": -1.6409735515881023,
+                "sustainability_score": 0.6140480151661392,
+                "sustainability_increment": 80.41872222923104,
+                "sustainameal_score": 0.5026108333935201,
+                "sustainameal_score_increment": 60.9726694312963
+            }
+        ]
+    },
+    {
+        "recipe_name": "Cheesecake Factory Pasta Da Vinci Copycat",
+        "recipe_id": 468703,
+        "sustnability_score": 0.6724610238000001,
+        "sustnability_label": 2,
+        "who_score": 0.2242337795,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                92212,
+                "Creamy Spinach Artichoke Pasta",
+                0.9921538158189627
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Creamy Spinach Artichoke Pasta",
+                "similarity_score": 0.9921538158189627,
+                "who_score": 0.219498450267681,
+                "healthiness_increment": -2.1117822994791338,
+                "sustainability_score": 0.6002991823930262,
+                "sustainability_increment": 83.27564842282185,
+                "sustainameal_score": 0.48605896275542254,
+                "sustainameal_score_increment": 63.905984207094534
+            }
+        ]
+    },
+    {
+        "recipe_name": "Michael Symon's Sloppy Mikes",
+        "recipe_id": 478450,
+        "sustnability_score": 0.5991371411,
+        "sustnability_label": 2,
+        "who_score": 0.19157088120000001,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                24541,
+                "Horseradish-Crusted Tenderloin",
+                0.9823463299659623
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Horseradish-Crusted Tenderloin",
+                "similarity_score": 0.9823463299659623,
+                "who_score": 0.2353479853479853,
+                "healthiness_increment": 22.85164835164835,
+                "sustainability_score": 0.81651534728008,
+                "sustainability_increment": 103.68944870449342,
+                "sustainameal_score": 0.6421651387004516,
+                "sustainameal_score_increment": 89.94738867201148
+            }
+        ]
+    },
+    {
+        "recipe_name": "Citrus Steamed Trout With Quinoa Pilaf",
+        "recipe_id": 458125,
+        "sustnability_score": 0.5849746880000001,
+        "sustnability_label": 2,
+        "who_score": 0.23434695390000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                397048,
+                "Creamy Skillet Chicken and Noodles",
+                0.9886582034501744
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Creamy Skillet Chicken and Noodles",
+                "similarity_score": 0.9886582034501744,
+                "who_score": 0.2348748812163446,
+                "healthiness_increment": 0.22527596305476397,
+                "sustainability_score": 0.8096870832191856,
+                "sustainability_increment": 95.09342195096741,
+                "sustainameal_score": 0.6372434226183332,
+                "sustainameal_score_increment": 76.6089007152497
+            }
+        ]
+    },
+    {
+        "recipe_name": "Jalapeno Jack Burgers",
+        "recipe_id": 388784,
+        "sustnability_score": 0.6369054540000001,
+        "sustnability_label": 2,
+        "who_score": 0.2314814815,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                183743,
+                "Chicken & Cornbread Casserole",
+                0.9949380533521688
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Chicken & Cornbread Casserole",
+                "similarity_score": 0.9949380533521688,
+                "who_score": 0.2102999790224459,
+                "healthiness_increment": -9.150409062303337,
+                "sustainability_score": 0.6836809761116383,
+                "sustainability_increment": 88.29282445246479,
+                "sustainameal_score": 0.5416666769848805,
+                "sustainameal_score_increment": 67.38222801640082
+            }
+        ]
+    },
+    {
+        "recipe_name": "Family Favorite Meatloaf",
+        "recipe_id": 233734,
+        "sustnability_score": 0.5620892248,
+        "sustnability_label": 2,
+        "who_score": 0.2623518891,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                338932,
+                "Healthier Version of Butter Chicken",
+                0.9963885607176381
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Healthier Version of Butter Chicken",
+                "similarity_score": 0.9963885607176381,
+                "who_score": 0.1950971177944862,
+                "healthiness_increment": -25.635329536025836,
+                "sustainability_score": 0.8742439288628986,
+                "sustainability_increment": 99.63973906830897,
+                "sustainameal_score": 0.6704998855423749,
+                "sustainameal_score_increment": 74.04591264264431
+            }
+        ]
+    },
+    {
+        "recipe_name": "Bacon Cheeseburger Dinner",
+        "recipe_id": 226072,
+        "sustnability_score": 0.666497607,
+        "sustnability_label": 2,
+        "who_score": 0.1822196621,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                125757,
+                "Asian Spareribs",
+                0.9893540470292959
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Asian Spareribs",
+                "similarity_score": 0.9893540470292959,
+                "who_score": 0.1811454311454311,
+                "healthiness_increment": -0.5895252470594956,
+                "sustainability_score": 0.7143563578564389,
+                "sustainability_increment": 114.19827046632278,
+                "sustainameal_score": 0.5543930798431366,
+                "sustainameal_score_increment": 92.41904359926919
+            }
+        ]
+    },
+    {
+        "recipe_name": "Anguillan Kebabs",
+        "recipe_id": 225469,
+        "sustnability_score": 0.5592374139,
+        "sustnability_label": 2,
+        "who_score": 0.050085034,
+        "healthiness_label": 2,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                467407,
+                "Beef and Pineapple Kebabs (Anguilla)",
+                1.0
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Beef and Pineapple Kebabs (Anguilla)",
+                "similarity_score": 1.0,
+                "who_score": 0.0500085338795016,
+                "healthiness_increment": -0.15274050544325013,
+                "sustainability_score": 0.4321003568239945,
+                "sustainability_increment": -1.9652823484854753,
+                "sustainameal_score": 0.31747280994064664,
+                "sustainameal_score_increment": -1.881111180378154
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hamburger Vegetable Soup - Crock Pot",
+        "recipe_id": 360096,
+        "sustnability_score": 0.7316946982,
+        "sustnability_label": 2,
+        "who_score": 0.2330428192,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                57204,
+                "All American County Fair Prize Winning Chili",
+                0.9942660496466428
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "All American County Fair Prize Winning Chili",
+                "similarity_score": 0.9942660496466428,
+                "who_score": 0.2553214834320825,
+                "healthiness_increment": 9.55990158979931,
+                "sustainability_score": 0.8669235954894012,
+                "sustainability_increment": 223.11087016335418,
+                "sustainameal_score": 0.6834429618722055,
+                "sustainameal_score_increment": 165.18142703237731
+            }
+        ]
+    },
+    {
+        "recipe_name": "That Casserole",
+        "recipe_id": 209107,
+        "sustnability_score": 0.6599861187,
+        "sustnability_label": 2,
+        "who_score": 0.1985419575,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                110517,
+                "Micro Beef Pie",
+                0.9954946294221629
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Micro Beef Pie",
+                "similarity_score": 0.9954946294221629,
+                "who_score": 0.2353237591332829,
+                "healthiness_increment": 18.525958994708986,
+                "sustainability_score": 0.3362298967689753,
+                "sustainability_increment": -1.1128911783926294,
+                "sustainameal_score": 0.30595805547826754,
+                "sustainameal_score_increment": 2.818055051091108
+            }
+        ]
+    },
+    {
+        "recipe_name": "Easy No-Cook Noodle Lasagna",
+        "recipe_id": 462203,
+        "sustnability_score": 0.6712299544,
+        "sustnability_label": 2,
+        "who_score": 0.2062592742,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                272809,
+                "Pasta With Ricotta Bolognese",
+                0.9962017539136399
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Pasta With Ricotta Bolognese",
+                "similarity_score": 0.9962017539136399,
+                "who_score": 0.2299752270850537,
+                "healthiness_increment": 11.498126774460692,
+                "sustainability_score": 0.3365737727750694,
+                "sustainability_increment": 2.37361259297844,
+                "sustainameal_score": 0.30459420906806467,
+                "sustainameal_score_increment": 4.307079004758736
+            }
+        ]
+    },
+    {
+        "recipe_name": "Crock Pot Cheeseburgers",
+        "recipe_id": 104171,
+        "sustnability_score": 0.6297134996,
+        "sustnability_label": 2,
+        "who_score": 0.2450980392,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                272070,
+                "Lazy Man's Cabbage Roll",
+                0.9954088614388374
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Lazy Man's Cabbage Roll",
+                "similarity_score": 0.9954088614388374,
+                "who_score": 0.2575884154831523,
+                "healthiness_increment": 5.096073517126135,
+                "sustainability_score": 0.8185314497120639,
+                "sustainability_increment": 121.05354875299518,
+                "sustainameal_score": 0.6502485394433904,
+                "sustainameal_score_increment": 95.42830932093958
+            }
+        ]
+    },
+    {
+        "recipe_name": "Pate Chinois Casserole",
+        "recipe_id": 11035,
+        "sustnability_score": 0.6240364778,
+        "sustnability_label": 2,
+        "who_score": 0.2290799815,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                479600,
+                "Tex Mex BLT",
+                0.9935274649126025
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Tex Mex BLT",
+                "similarity_score": 0.9935274649126025,
+                "who_score": 0.2734971539636263,
+                "healthiness_increment": 19.389373163132916,
+                "sustainability_score": 0.8099054722626928,
+                "sustainability_increment": 115.42129076193336,
+                "sustainameal_score": 0.6489829767729728,
+                "sustainameal_score_increment": 95.53660382244588
+            }
+        ]
+    },
+    {
+        "recipe_name": "Baked Mostaccioli with Peppers",
+        "recipe_id": 16898,
+        "sustnability_score": 0.6613070591,
+        "sustnability_label": 2,
+        "who_score": 0.1823251823,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                185314,
+                "Fusilli Cheddar Bake",
+                0.9939915047791154
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Fusilli Cheddar Bake",
+                "similarity_score": 0.9939915047791154,
+                "who_score": 0.2146060217809096,
+                "healthiness_increment": 17.705091005011845,
+                "sustainability_score": 0.6681763131074202,
+                "sustainability_increment": 97.28085014323037,
+                "sustainameal_score": 0.532105225709467,
+                "sustainameal_score_increment": 82.36358215106934
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hot Dried Beef Spread",
+        "recipe_id": 217107,
+        "sustnability_score": 0.6400601029,
+        "sustnability_label": 2,
+        "who_score": 0.1079365079,
+        "healthiness_label": 2,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                159431,
+                "Hotter Than Hell Sausage Dip",
+                0.9870334951900591
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Hotter Than Hell Sausage Dip",
+                "similarity_score": 0.9870334951900591,
+                "who_score": 0.1108843537414965,
+                "healthiness_increment": 2.731092436974728,
+                "sustainability_score": 0.6510474491373506,
+                "sustainability_increment": 80.87671145143453,
+                "sustainameal_score": 0.4889985205185943,
+                "sustainameal_score_increment": 71.97736724372972
+            }
+        ]
+    },
+    {
+        "recipe_name": "Onion burgers",
+        "recipe_id": 51291,
+        "sustnability_score": 0.5420061937,
+        "sustnability_label": 2,
+        "who_score": 0.2694444444,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                7667,
+                "Zaney's Simple Garlickly Baked Chicken",
+                0.9957053626470328
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Zaney's Simple Garlickly Baked Chicken",
+                "similarity_score": 0.9957053626470328,
+                "who_score": 0.2792894935752078,
+                "healthiness_increment": 3.653832667087467,
+                "sustainability_score": 0.8950852094987423,
+                "sustainability_increment": 95.43609482315067,
+                "sustainameal_score": 0.7103464947216819,
+                "sustainameal_score_increment": 76.95445489905086
+            }
+        ]
+    },
+    {
+        "recipe_name": "Diner Meatloaf and Meatballs Mixture",
+        "recipe_id": 225660,
+        "sustnability_score": 0.5621481973,
+        "sustnability_label": 2,
+        "who_score": 0.2551459293,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                121221,
+                "Down-home Meatloaf",
+                0.9944151093907229
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Down-home Meatloaf",
+                "similarity_score": 0.9944151093907229,
+                "who_score": 0.2334135901551632,
+                "healthiness_increment": -8.51761156471328,
+                "sustainability_score": 0.43372268085698873,
+                "sustainability_increment": -0.9430409615490205,
+                "sustainameal_score": 0.373629953646441,
+                "sustainameal_score_increment": -2.4566849547788325
+            }
+        ]
+    },
+    {
+        "recipe_name": "Taco Macaroni Casserole",
+        "recipe_id": 223160,
+        "sustnability_score": 0.6660573492,
+        "sustnability_label": 2,
+        "who_score": 0.2427934384,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                368937,
+                "Ground Beef With Potato Lid",
+                0.9915560056791012
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Ground Beef With Potato Lid",
+                "similarity_score": 0.9915560056791012,
+                "who_score": 0.2034585385878489,
+                "healthiness_increment": -16.200973185103077,
+                "sustainability_score": 0.3539001212648427,
+                "sustainability_increment": 5.976316707387441,
+                "sustainameal_score": 0.30876764646174454,
+                "sustainameal_score_increment": 0.7076889431133904
+            }
+        ]
+    },
+    {
+        "recipe_name": "Barky Burgers",
+        "recipe_id": 239554,
+        "sustnability_score": 0.5700753594,
+        "sustnability_label": 2,
+        "who_score": 0.29380490060000003,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                133008,
+                "Russian Chicken Salad",
+                0.992363058090257
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Russian Chicken Salad",
+                "similarity_score": 0.992363058090257,
+                "who_score": 0.2237823129251701,
+                "healthiness_increment": -23.833022367090024,
+                "sustainability_score": 0.8892854631312481,
+                "sustainability_increment": 106.84682363048832,
+                "sustainameal_score": 0.6896345180694247,
+                "sustainameal_score_increment": 77.24351415869573
+            }
+        ]
+    },
+    {
+        "recipe_name": "Wendy's Copycat Chili",
+        "recipe_id": 87611,
+        "sustnability_score": 0.5749818168,
+        "sustnability_label": 2,
+        "who_score": 0.2656615925,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                446735,
+                "Wendy's Restaurant Copycat Chili",
+                0.9916316328409482
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Wendy's Restaurant Copycat Chili",
+                "similarity_score": 0.9916316328409482,
+                "who_score": 0.3087048087048087,
+                "healthiness_increment": 16.202272896487774,
+                "sustainability_score": 0.44099840181604666,
+                "sustainability_increment": 3.759890564065534,
+                "sustainameal_score": 0.40131032388267524,
+                "sustainameal_score_increment": 6.388759790797313
+            }
+        ]
+    },
+    {
+        "recipe_name": "Fiesta Beef Medley",
+        "recipe_id": 163652,
+        "sustnability_score": 0.5554030446,
+        "sustnability_label": 2,
+        "who_score": 0.2142857143,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                418480,
+                "Ez Crockpot Chicken",
+                0.9905794914333743
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Ez Crockpot Chicken",
+                "similarity_score": 0.9905794914333743,
+                "who_score": 0.2190607012035583,
+                "healthiness_increment": 2.2283272283272546,
+                "sustainability_score": 0.8353056195099838,
+                "sustainability_increment": 87.87929368768116,
+                "sustainameal_score": 0.6504321440180562,
+                "sustainameal_score_increment": 73.21596207993885
+            }
+        ]
+    },
+    {
+        "recipe_name": "Layered Tortilla Pie",
+        "recipe_id": 181957,
+        "sustnability_score": 0.6375327704,
+        "sustnability_label": 2,
+        "who_score": 0.2308110459,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                398164,
+                "Funky Chicken Sandwich",
+                0.9924668148783201
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Funky Chicken Sandwich",
+                "similarity_score": 0.9924668148783201,
+                "who_score": 0.2498940228910555,
+                "healthiness_increment": 8.267791924254777,
+                "sustainability_score": 0.8097171023683386,
+                "sustainability_increment": 123.39042988990879,
+                "sustainameal_score": 0.6417701785251536,
+                "sustainameal_score_increment": 98.70868328987594
+            }
+        ]
+    },
+    {
+        "recipe_name": "New Zealand Shepherd's Pie",
+        "recipe_id": 357168,
+        "sustnability_score": 0.5548092331,
+        "sustnability_label": 2,
+        "who_score": 0.2041489863,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                80598,
+                "Spicy Pork Soup",
+                0.9929228464175662
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Spicy Pork Soup",
+                "similarity_score": 0.9929228464175662,
+                "who_score": 0.219047619047619,
+                "healthiness_increment": 7.297921478060044,
+                "sustainability_score": 0.82265657033055,
+                "sustainability_increment": 84.78742854200007,
+                "sustainameal_score": 0.6415738849456707,
+                "sustainameal_score_increment": 72.05989210102595
+            }
+        ]
+    },
+    {
+        "recipe_name": "Low Carb Chili Dog Casserole",
+        "recipe_id": 499146,
+        "sustnability_score": 0.6294314127,
+        "sustnability_label": 2,
+        "who_score": 0.3148848944,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                92187,
+                "No-fuss \"company\" Burgers",
+                0.9998839464401714
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "No-fuss \"company\" Burgers",
+                "similarity_score": 0.9998839464401714,
+                "who_score": 0.3179626280892104,
+                "healthiness_increment": 0.9774154903241153,
+                "sustainability_score": 0.9720118904389122,
+                "sustainability_increment": 162.3028296649874,
+                "sustainameal_score": 0.7757971117340017,
+                "sustainameal_score_increment": 119.23627523072821
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mushroom and Swiss Stuffed Burgers",
+        "recipe_id": 500146,
+        "sustnability_score": 0.635932332,
+        "sustnability_label": 2,
+        "who_score": 0.1998324256,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                231920,
+                "Texas Taco Burgers",
+                0.9960982618259279
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Texas Taco Burgers",
+                "similarity_score": 0.9960982618259279,
+                "who_score": 0.2023809523809523,
+                "healthiness_increment": 1.2753319357092756,
+                "sustainability_score": 0.35590810643266546,
+                "sustainability_increment": -2.241221141338179,
+                "sustainameal_score": 0.3098499602171515,
+                "sustainameal_score_increment": -1.5715313552931636
+            }
+        ]
+    },
+    {
+        "recipe_name": "Stuffed Bell Peppers Hungarian Style, Stove Top and Simple",
+        "recipe_id": 432416,
+        "sustnability_score": 0.5766850481,
+        "sustnability_label": 2,
+        "who_score": 0.19166454460000001,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                278659,
+                "Crock  Pot - Beef Teriyaki With Broccoli",
+                0.9970950293605993
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Crock  Pot - Beef Teriyaki With Broccoli",
+                "similarity_score": 0.9970950293605993,
+                "who_score": 0.2220769314590825,
+                "healthiness_increment": 15.867507950374316,
+                "sustainability_score": 0.8752303494381279,
+                "sustainability_increment": 106.7563041427231,
+                "sustainameal_score": 0.6792843240444142,
+                "sustainameal_score_increment": 91.98593945225912
+            }
+        ]
+    },
+    {
+        "recipe_name": "Busy Mom Lasagna for the Crock Pot",
+        "recipe_id": 177654,
+        "sustnability_score": 0.671365459,
+        "sustnability_label": 2,
+        "who_score": 0.21907579600000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                203474,
+                "Boneless Chicken",
+                0.9869428666906503
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Boneless Chicken",
+                "similarity_score": 0.9869428666906503,
+                "who_score": 0.2174185463659148,
+                "healthiness_increment": -0.7564731765103929,
+                "sustainability_score": 0.8696312549346209,
+                "sustainability_increment": 164.61955346582158,
+                "sustainameal_score": 0.673967442364009,
+                "sustainameal_score_increment": 127.87113854989602
+            }
+        ]
+    },
+    {
+        "recipe_name": "Okeefenokee Hash",
+        "recipe_id": 122991,
+        "sustnability_score": 0.5370563693,
+        "sustnability_label": 2,
+        "who_score": 0.21260504200000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                108622,
+                "Q&E Pizza on a Raft",
+                0.9909714641928605
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Q&E Pizza on a Raft",
+                "similarity_score": 0.9909714641928605,
+                "who_score": 0.2246543778801843,
+                "healthiness_increment": 5.667474180798167,
+                "sustainability_score": 0.3367741379410506,
+                "sustainability_increment": -27.253748487807915,
+                "sustainameal_score": 0.30313820992279067,
+                "sustainameal_score_increment": -21.839778144776563
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beef Stir-Fry",
+        "recipe_id": 209280,
+        "sustnability_score": 0.5463452962,
+        "sustnability_label": 2,
+        "who_score": 0.0856928357,
+        "healthiness_label": 2,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                203361,
+                "Easy Oven Beef and Gravy",
+                0.9935570002819765
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Easy Oven Beef and Gravy",
+                "similarity_score": 0.9935570002819765,
+                "who_score": 0.0747252747252747,
+                "healthiness_increment": -12.798690671031137,
+                "sustainability_score": 0.8423811674202519,
+                "sustainability_increment": 85.68774012052678,
+                "sustainameal_score": 0.6120843996117588,
+                "sustainameal_score_increment": 78.31190504764885
+            }
+        ]
+    },
+    {
+        "recipe_name": "Rigatoni",
+        "recipe_id": 106273,
+        "sustnability_score": 0.6458590927,
+        "sustnability_label": 2,
+        "who_score": 0.210670194,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                473267,
+                "Sour Cream Chicken Noodle Casserole",
+                0.9831157560790695
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Sour Cream Chicken Noodle Casserole",
+                "similarity_score": 0.9831157560790695,
+                "who_score": 0.25010175010175,
+                "healthiness_increment": 18.71719741121162,
+                "sustainability_score": 0.6640108644892662,
+                "sustainability_increment": 87.49905782254366,
+                "sustainameal_score": 0.5398381301730113,
+                "sustainameal_score_increment": 73.52576740527252
+            }
+        ]
+    },
+    {
+        "recipe_name": "Easy Taco Pizza",
+        "recipe_id": 101187,
+        "sustnability_score": 0.6296209518,
+        "sustnability_label": 2,
+        "who_score": 0.2120946538,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                27951,
+                "Ravioli With Meat Filling",
+                0.991939421677255
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Ravioli With Meat Filling",
+                "similarity_score": 0.991939421677255,
+                "who_score": 0.224618149146451,
+                "healthiness_increment": 5.904672800041587,
+                "sustainability_score": 0.3238744552461186,
+                "sustainability_increment": -12.555945920539408,
+                "sustainameal_score": 0.2940975634162183,
+                "sustainameal_score_increment": -8.918155984759032
+            }
+        ]
+    },
+    {
+        "recipe_name": "Spanish Meatballs (Albondigas)",
+        "recipe_id": 370766,
+        "sustnability_score": 0.5685610708000001,
+        "sustnability_label": 2,
+        "who_score": 0.1979822437,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                240080,
+                "Melinda's Slow Roasted Pork Chops",
+                0.9912663647618812
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Melinda's Slow Roasted Pork Chops",
+                "similarity_score": 0.9912663647618812,
+                "who_score": 0.2122932855150428,
+                "healthiness_increment": 7.228447106864272,
+                "sustainability_score": 0.8654724163224583,
+                "sustainability_increment": 100.60137314694002,
+                "sustainameal_score": 0.6695186770802336,
+                "sustainameal_score_increment": 85.25598050003178
+            }
+        ]
+    },
+    {
+        "recipe_name": "Many Way Meatballs",
+        "recipe_id": 127264,
+        "sustnability_score": 0.5974507773000001,
+        "sustnability_label": 2,
+        "who_score": 0.2097222222,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                15578,
+                "Erin's Meatloaf \"Muffins\"",
+                0.9952814317025271
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Erin's Meatloaf \"Muffins\"",
+                "similarity_score": 0.9952814317025271,
+                "who_score": 0.2594246031746032,
+                "healthiness_increment": 23.699148533585642,
+                "sustainability_score": 0.4378631681751419,
+                "sustainability_increment": 8.772578224219773,
+                "sustainameal_score": 0.3843315986749803,
+                "sustainameal_score_increment": 11.4970545520756
+            }
+        ]
+    },
+    {
+        "recipe_name": "Grilled Cheese and Short Ribs Sandwich",
+        "recipe_id": 321007,
+        "sustnability_score": 0.6590608741,
+        "sustnability_label": 2,
+        "who_score": 0.2025018129,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                112877,
+                "Amish Country Potato Soup",
+                0.9854358672602623
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Amish Country Potato Soup",
+                "similarity_score": 0.9854358672602623,
+                "who_score": 0.2119153304949119,
+                "healthiness_increment": 4.648609042966384,
+                "sustainability_score": 0.8181239528030633,
+                "sustainability_increment": 139.96188486725708,
+                "sustainameal_score": 0.6362613661106178,
+                "sustainameal_score_increment": 112.50651638669001
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beefy French Onion Soup",
+        "recipe_id": 79349,
+        "sustnability_score": 0.6614434946000001,
+        "sustnability_label": 2,
+        "who_score": 0.1910774411,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                338457,
+                "Fiesta Beef Skillet",
+                0.9960377195814599
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Fiesta Beef Skillet",
+                "similarity_score": 0.9960377195814599,
+                "who_score": 0.2324299494717501,
+                "healthiness_increment": 21.64175329182339,
+                "sustainability_score": 0.3726730747497585,
+                "sustainability_increment": 10.077068030110697,
+                "sustainameal_score": 0.33060013716635595,
+                "sustainameal_score_increment": 12.329519066329013
+            }
+        ]
+    },
+    {
+        "recipe_name": "Super Taco",
+        "recipe_id": 215705,
+        "sustnability_score": 0.6490530393,
+        "sustnability_label": 2,
+        "who_score": 0.1871270247,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                206068,
+                "Chicken Breasts With Lime Curry Sauce",
+                0.9980461435061005
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Chicken Breasts With Lime Curry Sauce",
+                "similarity_score": 0.9980461435061005,
+                "who_score": 0.1968908922792418,
+                "healthiness_increment": 5.217775236241776,
+                "sustainability_score": 0.8566537563154907,
+                "sustainability_increment": 144.0977846282274,
+                "sustainameal_score": 0.658724897104616,
+                "sustainameal_score_increment": 118.26466477715076
+            }
+        ]
+    },
+    {
+        "recipe_name": "Crock Pot All American Meatloaf",
+        "recipe_id": 41763,
+        "sustnability_score": 0.5670639940000001,
+        "sustnability_label": 2,
+        "who_score": 0.21779066960000001,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                302821,
+                "Personal Meat Loaves",
+                0.9939174636348237
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Personal Meat Loaves",
+                "similarity_score": 0.9939174636348237,
+                "who_score": 0.238095238095238,
+                "healthiness_increment": 9.322974472807957,
+                "sustainability_score": 0.4257233261194563,
+                "sustainability_increment": -1.6659921534761986,
+                "sustainameal_score": 0.3694348997121908,
+                "sustainameal_score_increment": 0.2829848338971579
+            }
+        ]
+    },
+    {
+        "recipe_name": "Delicious Stuffed Potato Pancakes",
+        "recipe_id": 441995,
+        "sustnability_score": 0.5785373968,
+        "sustnability_label": 2,
+        "who_score": 0.3151446255,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                24738,
+                "Traditional Spanish Omelette",
+                0.9657325615162475
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Traditional Spanish Omelette",
+                "similarity_score": 0.9657325615162475,
+                "who_score": 0.3195675292449486,
+                "healthiness_increment": 1.4034520654211502,
+                "sustainability_score": 0.8943532168022112,
+                "sustainability_increment": 112.20227132276044,
+                "sustainameal_score": 0.7219175105350324,
+                "sustainameal_score_increment": 85.31269885955464
+            }
+        ]
+    },
+    {
+        "recipe_name": "Taco Taters",
+        "recipe_id": 282554,
+        "sustnability_score": 0.6296679864,
+        "sustnability_label": 2,
+        "who_score": 0.2868157939,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                229821,
+                "Ground Beef Curry (Kima Curry)",
+                0.985855167796848
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Ground Beef Curry (Kima Curry)",
+                "similarity_score": 0.985855167796848,
+                "who_score": 0.3155067155067155,
+                "healthiness_increment": 10.003257205620553,
+                "sustainability_score": 0.4449993240499278,
+                "sustainability_increment": 20.162261884719413,
+                "sustainameal_score": 0.4061515414869641,
+                "sustainameal_score_increment": 17.630588695316966
+            }
+        ]
+    },
+    {
+        "recipe_name": "A.1. Meatloaf",
+        "recipe_id": 473672,
+        "sustnability_score": 0.5662553383,
+        "sustnability_label": 2,
+        "who_score": 0.2467771639,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                316609,
+                "Easy 1lb Meatloaf",
+                0.9970092051062982
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Easy 1lb Meatloaf",
+                "similarity_score": 0.9970092051062982,
+                "who_score": 0.2287729906777525,
+                "healthiness_increment": -7.295720941776404,
+                "sustainability_score": 0.4251933749899717,
+                "sustainability_increment": -1.9715024626319724,
+                "sustainameal_score": 0.3662672596963059,
+                "sustainameal_score_increment": -3.015230929723382
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beehoon Omelette",
+        "recipe_id": 211585,
+        "sustnability_score": 0.5712689991000001,
+        "sustnability_label": 2,
+        "who_score": 0.2071428571,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                195698,
+                "Curried Quiche",
+                0.9946311228811673
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Curried Quiche",
+                "similarity_score": 0.9946311228811673,
+                "who_score": 0.1810966810966811,
+                "healthiness_increment": -12.57401602229187,
+                "sustainability_score": 0.9027004264867636,
+                "sustainability_increment": 110.55170367730321,
+                "sustainameal_score": 0.6862193028697389,
+                "sustainameal_score_increment": 89.43013640799688
+            }
+        ]
+    },
+    {
+        "recipe_name": "Linda's Tacos Ole",
+        "recipe_id": 228981,
+        "sustnability_score": 0.6453851121,
+        "sustnability_label": 2,
+        "who_score": 0.2095376724,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                293944,
+                "Mother's Ham Casserole",
+                0.9902834372778176
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Mother's Ham Casserole",
+                "similarity_score": 0.9902834372778176,
+                "who_score": 0.1856742697078831,
+                "healthiness_increment": -11.38859778115678,
+                "sustainability_score": 0.6992756926974883,
+                "sustainability_increment": 97.19298781118788,
+                "sustainameal_score": 0.5451952658006067,
+                "sustainameal_score_increment": 75.25225681977972
+            }
+        ]
+    },
+    {
+        "recipe_name": "Everyone's Favorite Shepherd's Pie",
+        "recipe_id": 356037,
+        "sustnability_score": 0.598545648,
+        "sustnability_label": 2,
+        "who_score": 0.22192827750000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                250050,
+                "Zucchini, Sausage, and Feta Casserole",
+                0.9795517916484308
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Zucchini, Sausage, and Feta Casserole",
+                "similarity_score": 0.9795517916484308,
+                "who_score": 0.2125910862565667,
+                "healthiness_increment": -4.207301265584105,
+                "sustainability_score": 0.6348818385931498,
+                "sustainability_increment": 58.14546170835951,
+                "sustainameal_score": 0.5081946128921748,
+                "sustainameal_score_increment": 46.202441480873524
+            }
+        ]
+    },
+    {
+        "recipe_name": "Meat & Green Bean Casserole",
+        "recipe_id": 203395,
+        "sustnability_score": 0.569372255,
+        "sustnability_label": 2,
+        "who_score": 0.2285269248,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                496686,
+                "Pasta W/ Pesto Shrimp",
+                0.9854881699538971
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Pasta W/ Pesto Shrimp",
+                "similarity_score": 0.9854881699538971,
+                "who_score": 0.2621082621082621,
+                "healthiness_increment": 14.69469619420935,
+                "sustainability_score": 0.8979315139505408,
+                "sustainability_increment": 108.51687435281356,
+                "sustainameal_score": 0.7071845383978572,
+                "sustainameal_score_increment": 91.13224831056436
+            }
+        ]
+    },
+    {
+        "recipe_name": "Herb-Marinated Lamb",
+        "recipe_id": 163255,
+        "sustnability_score": 0.7677761656000001,
+        "sustnability_label": 2,
+        "who_score": 0.310453869,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                382347,
+                "BBQ-Less Country-Style Pork Ribs",
+                0.9963234112282935
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "BBQ-Less Country-Style Pork Ribs",
+                "similarity_score": 0.9963234112282935,
+                "who_score": 0.2802111410601977,
+                "healthiness_increment": -9.741456300801506,
+                "sustainability_score": 0.9190943471613439,
+                "sustainability_increment": 295.7795071278423,
+                "sustainameal_score": 0.727429385331,
+                "sustainameal_score_increment": 184.49344601199599
+            }
+        ]
+    },
+    {
+        "recipe_name": "Family Favorite Crock Pot Meatloaf",
+        "recipe_id": 38249,
+        "sustnability_score": 0.5650612581000001,
+        "sustnability_label": 2,
+        "who_score": 0.2352430556,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                277534,
+                "Dad's Awesome Meatloaf",
+                0.992821828884209
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Dad's Awesome Meatloaf",
+                "similarity_score": 0.992821828884209,
+                "who_score": 0.2094522019334049,
+                "healthiness_increment": -10.963492019452945,
+                "sustainability_score": 0.8745932840919354,
+                "sustainability_increment": 101.08424471608508,
+                "sustainameal_score": 0.6750509594443762,
+                "sustainameal_score_increment": 79.99917197899028
+            }
+        ]
+    },
+    {
+        "recipe_name": "Crock Pot Stout Corned Beef",
+        "recipe_id": 115154,
+        "sustnability_score": 0.5323695131,
+        "sustnability_label": 2,
+        "who_score": 0.2224257224,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                285910,
+                "Homemade Pastrami - No Smoker Needed",
+                0.9953370752544686
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Homemade Pastrami - No Smoker Needed",
+                "similarity_score": 0.9953370752544686,
+                "who_score": 0.2347969490826633,
+                "healthiness_increment": 5.561958626917439,
+                "sustainability_score": 0.8833512046041354,
+                "sustainability_increment": 88.89940440097604,
+                "sustainameal_score": 0.6887849279476937,
+                "sustainameal_score_increment": 74.78787402959428
+            }
+        ]
+    },
+    {
+        "recipe_name": "711 Kirkwood's Barley Casserole",
+        "recipe_id": 23613,
+        "sustnability_score": 0.5590435322,
+        "sustnability_label": 2,
+        "who_score": 0.2857142857,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                332863,
+                "Boo's Chili",
+                0.9958394964264438
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Boo's Chili",
+                "similarity_score": 0.9958394964264438,
+                "who_score": 0.2717041800643087,
+                "healthiness_increment": -4.903536977491954,
+                "sustainability_score": 0.406127226466523,
+                "sustainability_increment": -7.89856683814908,
+                "sustainameal_score": 0.36580031254585865,
+                "sustainameal_score_increment": -7.247635342934988
+            }
+        ]
+    },
+    {
+        "recipe_name": "Meat and Potato Casserole",
+        "recipe_id": 37432,
+        "sustnability_score": 0.6296678697,
+        "sustnability_label": 2,
+        "who_score": 0.2354497354,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                278202,
+                "Fiesta Chicken Enchiladas",
+                0.9929405272771019
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Fiesta Chicken Enchiladas",
+                "similarity_score": 0.9929405272771019,
+                "who_score": 0.2136054421768707,
+                "healthiness_increment": -9.27768860353131,
+                "sustainability_score": 0.7010542522868248,
+                "sustainability_increment": 89.30419343009038,
+                "sustainameal_score": 0.5548196092538386,
+                "sustainameal_score_increment": 68.19473198173716
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chicken Livers, Mushrooms, and Rice",
+        "recipe_id": 277644,
+        "sustnability_score": 0.6592663051000001,
+        "sustnability_label": 2,
+        "who_score": 0.1956769056,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                336744,
+                "\" Egg \"cellent Noodles",
+                0.9903894827755535
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "\" Egg \"cellent Noodles",
+                "similarity_score": 0.9903894827755535,
+                "who_score": 0.1971428571428571,
+                "healthiness_increment": 0.7491694352159177,
+                "sustainability_score": 0.6939180811304856,
+                "sustainability_increment": 103.6540827790694,
+                "sustainameal_score": 0.544885513934197,
+                "sustainameal_score_increment": 83.32939929196944
+            }
+        ]
+    },
+    {
+        "recipe_name": "Barley and Beef Soup",
+        "recipe_id": 427255,
+        "sustnability_score": 0.5441658699,
+        "sustnability_label": 2,
+        "who_score": 0.2473907371,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                135845,
+                "Slow Cooked Portuguese Lamb",
+                0.9922168202088764
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Slow Cooked Portuguese Lamb",
+                "similarity_score": 0.9922168202088764,
+                "who_score": 0.2365263935031377,
+                "healthiness_increment": -4.391572514090933,
+                "sustainability_score": 0.2193898359475258,
+                "sustainability_increment": -51.870686839707304,
+                "sustainameal_score": 0.22453080321420937,
+                "sustainameal_score_increment": -42.91122087811435
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mj's Corned Beef Salad",
+        "recipe_id": 30344,
+        "sustnability_score": 0.5431948009,
+        "sustnability_label": 2,
+        "who_score": 0.20408163270000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                400529,
+                "Crispy Mini Florentine Cups",
+                0.9984690796372491
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Crispy Mini Florentine Cups",
+                "similarity_score": 0.9984690796372491,
+                "who_score": 0.210813492063492,
+                "healthiness_increment": 3.298611111111096,
+                "sustainability_score": 0.6051620012340232,
+                "sustainability_increment": 32.4770388747847,
+                "sustainameal_score": 0.48685744848286383,
+                "sustainameal_score_increment": 27.788088705420773
+            }
+        ]
+    },
+    {
+        "recipe_name": "Teriyaki Hamburgers",
+        "recipe_id": 100724,
+        "sustnability_score": 0.543552367,
+        "sustnability_label": 2,
+        "who_score": 0.2370733701,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                292133,
+                "Campfire American Chop Suey",
+                0.9958868093427885
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Campfire American Chop Suey",
+                "similarity_score": 0.9958868093427885,
+                "who_score": 0.194743935309973,
+                "healthiness_increment": -17.854993493819148,
+                "sustainability_score": 0.45670047964332483,
+                "sustainability_increment": 0.055394448392550914,
+                "sustainameal_score": 0.37811351634331924,
+                "sustainameal_score_increment": -3.2055055070577145
+            }
+        ]
+    },
+    {
+        "recipe_name": "A Weeknight Macaroni and Cheese Goulash",
+        "recipe_id": 406992,
+        "sustnability_score": 0.6266844883,
+        "sustnability_label": 2,
+        "who_score": 0.1998448502,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                170624,
+                "Chicken Divan for Two",
+                0.9939816803396349
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Chicken Divan for Two",
+                "similarity_score": 0.9939816803396349,
+                "who_score": 0.2223092998955067,
+                "healthiness_increment": 11.240944988023381,
+                "sustainability_score": 0.6714315117189669,
+                "sustainability_increment": 79.85631205371162,
+                "sustainameal_score": 0.5366948481719288,
+                "sustainameal_score_increment": 67.05190113060287
+            }
+        ]
+    },
+    {
+        "recipe_name": "New Zealand Corned Beef Hot Pot",
+        "recipe_id": 484301,
+        "sustnability_score": 0.5851108134,
+        "sustnability_label": 2,
+        "who_score": 0.2241758242,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                450782,
+                "Ultimate Corned Beef",
+                0.9979850935610431
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Ultimate Corned Beef",
+                "similarity_score": 0.9979850935610431,
+                "who_score": 0.2015133988818199,
+                "healthiness_increment": -10.109219126246973,
+                "sustainability_score": 0.4178047992283769,
+                "sustainability_increment": 0.7027449077015387,
+                "sustainameal_score": 0.3529173791244098,
+                "sustainameal_score_increment": -1.3302009869782117
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hamburger & Cream of Mushroom Soup over Rice",
+        "recipe_id": 92871,
+        "sustnability_score": 0.5932993981,
+        "sustnability_label": 2,
+        "who_score": 0.2816326531,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                115373,
+                "Garlic Butter and Brie Chicken",
+                0.9993038689767552
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Garlic Butter and Brie Chicken",
+                "similarity_score": 0.9993038689767552,
+                "who_score": 0.2635467980295566,
+                "healthiness_increment": -6.421789105447289,
+                "sustainability_score": 0.7027784642791558,
+                "sustainability_increment": 72.79995675616244,
+                "sustainameal_score": 0.5710089644042761,
+                "sustainameal_score_increment": 54.66943722419341
+            }
+        ]
+    },
+    {
+        "recipe_name": "Texas Red and a Long Neck",
+        "recipe_id": 110183,
+        "sustnability_score": 0.566460423,
+        "sustnability_label": 2,
+        "who_score": 0.2436147186,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                406089,
+                "Patrick's White Chicken Chili",
+                0.9763108130306779
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Patrick's White Chicken Chili",
+                "similarity_score": 0.9763108130306779,
+                "who_score": 0.254923021840315,
+                "healthiness_increment": 4.641880133474499,
+                "sustainability_score": 0.8027947317252707,
+                "sustainability_increment": 85.17219058116811,
+                "sustainameal_score": 0.638433218759784,
+                "sustainameal_score_increment": 69.54260286743967
+            }
+        ]
+    },
+    {
+        "recipe_name": "German-Style Hamburgers",
+        "recipe_id": 104442,
+        "sustnability_score": 0.5349341482000001,
+        "sustnability_label": 2,
+        "who_score": 0.2248427673,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                134700,
+                "Iowa-Style Loose Meat Sandwiches",
+                0.9948178391983961
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Iowa-Style Loose Meat Sandwiches",
+                "similarity_score": 0.9948178391983961,
+                "who_score": 0.1977803073420603,
+                "healthiness_increment": -12.036171000314404,
+                "sustainability_score": 0.46072683603883,
+                "sustainability_increment": -0.9329895358539456,
+                "sustainameal_score": 0.3818428774297991,
+                "sustainameal_score_increment": -2.838697067126944
+            }
+        ]
+    },
+    {
+        "recipe_name": "Meatloaf Tropicale",
+        "recipe_id": 8108,
+        "sustnability_score": 0.6043879516,
+        "sustnability_label": 2,
+        "who_score": 0.2332812907,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                228191,
+                "Quick Herbed Orange Roughy",
+                0.9958762077086524
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Quick Herbed Orange Roughy",
+                "similarity_score": 0.9958762077086524,
+                "who_score": 0.2751322751322752,
+                "healthiness_increment": 17.94013757203945,
+                "sustainability_score": 0.8636134019784328,
+                "sustainability_increment": 118.29805371104396,
+                "sustainameal_score": 0.6870690639245856,
+                "sustainameal_score_increment": 98.05236997094497
+            }
+        ]
+    },
+    {
+        "recipe_name": "Roquefort Cheese Meatballs",
+        "recipe_id": 44998,
+        "sustnability_score": 0.6363725944,
+        "sustnability_label": 2,
+        "who_score": 0.2848043676,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                45862,
+                "Hot Devils",
+                0.9998746261533993
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Hot Devils",
+                "similarity_score": 0.9998746261533993,
+                "who_score": 0.2705627705627705,
+                "healthiness_increment": -5.000484073966496,
+                "sustainability_score": 0.46555790054826496,
+                "sustainability_increment": 28.031576668047336,
+                "sustainameal_score": 0.4070593615526166,
+                "sustainameal_score_increment": 19.730210561990326
+            }
+        ]
+    },
+    {
+        "recipe_name": "Highland Beef Balls",
+        "recipe_id": 16572,
+        "sustnability_score": 0.5664211376,
+        "sustnability_label": 2,
+        "who_score": 0.27329011880000004,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                431412,
+                "Delicious No Mayo Chicken Salad",
+                0.9918163006270079
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Delicious No Mayo Chicken Salad",
+                "similarity_score": 0.9918163006270079,
+                "who_score": 0.2450980392156863,
+                "healthiness_increment": -10.315806419876724,
+                "sustainability_score": 0.6675485594958441,
+                "sustainability_increment": 53.962431597396346,
+                "sustainameal_score": 0.5408134034117967,
+                "sustainameal_score_increment": 40.29164486308059
+            }
+        ]
+    },
+    {
+        "recipe_name": "Best Italian Lasagna Ever!",
+        "recipe_id": 321456,
+        "sustnability_score": 0.6728858882000001,
+        "sustnability_label": 2,
+        "who_score": 0.20955587620000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                158278,
+                "Spicy Garlic Italian Beef Sandwiches",
+                0.9962896380362312
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Spicy Garlic Italian Beef Sandwiches",
+                "similarity_score": 0.9962896380362312,
+                "who_score": 0.2232969576719576,
+                "healthiness_increment": 6.557239862279986,
+                "sustainability_score": 0.43166787615770197,
+                "sustainability_increment": 31.962474452812135,
+                "sustainameal_score": 0.36915660061197864,
+                "sustainameal_score_increment": 26.4899260877553
+            }
+        ]
+    },
+    {
+        "recipe_name": "Mustard-Crusted Beef Ribs",
+        "recipe_id": 279213,
+        "sustnability_score": 0.5699467132,
+        "sustnability_label": 2,
+        "who_score": 0.16077097510000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                23882,
+                "Lamb Grill For Two",
+                0.9950806615483974
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Lamb Grill For Two",
+                "similarity_score": 0.9950806615483974,
+                "who_score": 0.1622833233711894,
+                "healthiness_increment": 0.9406849177638076,
+                "sustainability_score": 0.8955783310719546,
+                "sustainability_increment": 108.2482237787354,
+                "sustainameal_score": 0.675589828761725,
+                "sustainameal_score_increment": 93.42988226259867
+            }
+        ]
+    },
+    {
+        "recipe_name": "Iowa Maid-Rites",
+        "recipe_id": 326470,
+        "sustnability_score": 0.5347017664,
+        "sustnability_label": 2,
+        "who_score": 0.2384386447,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                125259,
+                "Sour Cream and Onion Burgers",
+                0.993157904106074
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Sour Cream and Onion Burgers",
+                "similarity_score": 0.993157904106074,
+                "who_score": 0.2521150592216581,
+                "healthiness_increment": 5.735821284704999,
+                "sustainability_score": 0.4548860311304741,
+                "sustainability_increment": -2.2377481218545223,
+                "sustainameal_score": 0.39405473955782927,
+                "sustainameal_score_increment": -0.8019369943350791
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beefy One Pot Dinner",
+        "recipe_id": 251211,
+        "sustnability_score": 0.6316836237,
+        "sustnability_label": 2,
+        "who_score": 0.20715905410000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                170058,
+                "Tuscan Beef Stew",
+                0.9926122372878895
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Tuscan Beef Stew",
+                "similarity_score": 0.9926122372878895,
+                "who_score": 0.2168367346938775,
+                "healthiness_increment": 4.671618451915538,
+                "sustainability_score": 0.42989435093167594,
+                "sustainability_increment": 16.71877186012592,
+                "sustainameal_score": 0.36597706606033636,
+                "sustainameal_score_increment": 14.378849395429446
+            }
+        ]
+    },
+    {
+        "recipe_name": "Family Favorite Sloppy Jo's",
+        "recipe_id": 358422,
+        "sustnability_score": 0.5438748839,
+        "sustnability_label": 2,
+        "who_score": 0.23782312930000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                72441,
+                "Cream of Tuna over Toast or Pasta",
+                0.9920795740466625
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Cream of Tuna over Toast or Pasta",
+                "similarity_score": 0.9920795740466625,
+                "who_score": 0.2571428571428571,
+                "healthiness_increment": 8.123569794050319,
+                "sustainability_score": 0.7937092602921272,
+                "sustainability_increment": 74.01130354355918,
+                "sustainameal_score": 0.6327393393473462,
+                "sustainameal_score_increment": 61.97732327615408
+            }
+        ]
+    },
+    {
+        "recipe_name": "A Better Marzetti",
+        "recipe_id": 411729,
+        "sustnability_score": 0.6007328382,
+        "sustnability_label": 2,
+        "who_score": 0.20836385840000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                130933,
+                "Grilled Beef Fajitas With Avocado Pico De Gallo",
+                0.9934528549476062
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Grilled Beef Fajitas With Avocado Pico De Gallo",
+                "similarity_score": 0.9934528549476062,
+                "who_score": 0.2973238882329791,
+                "healthiness_increment": 42.69455872417814,
+                "sustainability_score": 0.7200389053379036,
+                "sustainability_increment": 80.34012666687289,
+                "sustainameal_score": 0.5932244002064262,
+                "sustainameal_score_increment": 73.45936911120681
+            }
+        ]
+    },
+    {
+        "recipe_name": "Old English Cornish Pasties",
+        "recipe_id": 230198,
+        "sustnability_score": 0.5657280778,
+        "sustnability_label": 2,
+        "who_score": 0.2822194812,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                24189,
+                "Pasta with Spicy Garlic Cream Sauce",
+                0.9706281669292554
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Pasta with Spicy Garlic Cream Sauce",
+                "similarity_score": 0.9706281669292554,
+                "who_score": 0.2266666666666666,
+                "healthiness_increment": -19.684259320574835,
+                "sustainability_score": 0.7025990937092571,
+                "sustainability_increment": 61.78782410987598,
+                "sustainameal_score": 0.5598193655964799,
+                "sustainameal_score_increment": 44.03974003410083
+            }
+        ]
+    },
+    {
+        "recipe_name": "\"you'll Never Miss the Noodles\" Lasagna",
+        "recipe_id": 60454,
+        "sustnability_score": 0.6726309778,
+        "sustnability_label": 2,
+        "who_score": 0.2206122449,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                184089,
+                "Lasagna - My Special 'no Boil' Recipe",
+                0.9922454251478207
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Lasagna - My Special 'no Boil' Recipe",
+                "similarity_score": 0.9922454251478207,
+                "who_score": 0.1912878787878787,
+                "healthiness_increment": -13.292265859333433,
+                "sustainability_score": 0.5945750379030064,
+                "sustainability_increment": 81.62226648111309,
+                "sustainameal_score": 0.47358889016846806,
+                "sustainameal_score_increment": 60.35271237275902
+            }
+        ]
+    },
+    {
+        "recipe_name": "Jambalaya#1",
+        "recipe_id": 76527,
+        "sustnability_score": 0.6183635005,
+        "sustnability_label": 2,
+        "who_score": 0.2376738306,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                348217,
+                "Jambalaya, With Thanks to Pol Martin",
+                0.9944665459700675
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Jambalaya, With Thanks to Pol Martin",
+                "similarity_score": 0.9944665459700675,
+                "who_score": 0.245021645021645,
+                "healthiness_increment": 3.091553836234708,
+                "sustainability_score": 0.7209415364299806,
+                "sustainability_increment": 88.90791035053238,
+                "sustainameal_score": 0.57816556900748,
+                "sustainameal_score_increment": 70.82863052472543
+            }
+        ]
+    },
+    {
+        "recipe_name": "Moroccan Meatball Stew",
+        "recipe_id": 404832,
+        "sustnability_score": 0.7547802923,
+        "sustnability_label": 2,
+        "who_score": 0.2072794205,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                436352,
+                "Asian Lettuce Cups With Spicy Ground Turkey Filling",
+                0.990147391288811
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Asian Lettuce Cups With Spicy Ground Turkey Filling",
+                "similarity_score": 0.990147391288811,
+                "who_score": 0.30566534914361,
+                "healthiness_increment": 47.46536265473158,
+                "sustainability_score": 0.8961088155279364,
+                "sustainability_increment": 265.4309940484549,
+                "sustainameal_score": 0.7189757756126385,
+                "sustainameal_score_increment": 207.46796466520516
+            }
+        ]
+    },
+    {
+        "recipe_name": "Meatballs with Sweet Sour Sauce",
+        "recipe_id": 37592,
+        "sustnability_score": 0.5695818449,
+        "sustnability_label": 2,
+        "who_score": 0.2108664832,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                506950,
+                "Grands!® Mini Chicken Pot Pies",
+                0.9981742463112078
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Grands!® Mini Chicken Pot Pies",
+                "similarity_score": 0.9981742463112078,
+                "who_score": 0.1987012987012986,
+                "healthiness_increment": -5.769140884822149,
+                "sustainability_score": 0.8030989449326119,
+                "sustainability_increment": 86.58575050831959,
+                "sustainameal_score": 0.6217796510632179,
+                "sustainameal_score_increment": 70.55962838259452
+            }
+        ]
+    },
+    {
+        "recipe_name": "Ground Beef and Mushroom Carbonara",
+        "recipe_id": 328950,
+        "sustnability_score": 0.6514009288,
+        "sustnability_label": 2,
+        "who_score": 0.2130541872,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                26911,
+                "Mashed Potatoes with Ham",
+                0.9914943802425709
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Mashed Potatoes with Ham",
+                "similarity_score": 0.9914943802425709,
+                "who_score": 0.1887266088544043,
+                "healthiness_increment": -11.418493416314272,
+                "sustainability_score": 0.8638659391657602,
+                "sustainability_increment": 147.81074037135525,
+                "sustainameal_score": 0.6613241400723533,
+                "sustainameal_score_increment": 114.76053020633469
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hunky Baked Beans Casserole",
+        "recipe_id": 30559,
+        "sustnability_score": 0.6033060959000001,
+        "sustnability_label": 2,
+        "who_score": 0.2028660994,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                239802,
+                "Hearty Homely Beef Stew",
+                0.9899361314407713
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Hearty Homely Beef Stew",
+                "similarity_score": 0.9899361314407713,
+                "who_score": 0.2617857142857142,
+                "healthiness_increment": 29.04359823399557,
+                "sustainability_score": 0.922240757730383,
+                "sustainability_increment": 132.48170645395697,
+                "sustainameal_score": 0.7241042446969823,
+                "sustainameal_score_increment": 113.8867923361771
+            }
+        ]
+    },
+    {
+        "recipe_name": "Cajun Cabbage",
+        "recipe_id": 244316,
+        "sustnability_score": 0.6328167976,
+        "sustnability_label": 2,
+        "who_score": 0.21488933600000001,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                104748,
+                "Oven Cook Bag Stuffed Bell Peppers",
+                0.9929894646200416
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Oven Cook Bag Stuffed Bell Peppers",
+                "similarity_score": 0.9929894646200416,
+                "who_score": 0.2056678820019886,
+                "healthiness_increment": -4.291257158250588,
+                "sustainability_score": 0.370421220683653,
+                "sustainability_increment": 0.8818535944644773,
+                "sustainameal_score": 0.3209952190791537,
+                "sustainameal_score_increment": -0.1554684676370664
+            }
+        ]
+    },
+    {
+        "recipe_name": "Heavenly Beef Stew",
+        "recipe_id": 188269,
+        "sustnability_score": 0.5884632526,
+        "sustnability_label": 2,
+        "who_score": 0.20883933170000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                252635,
+                "Melt in Your Mouth Beef Stew",
+                0.9962017822293768
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Melt in Your Mouth Beef Stew",
+                "similarity_score": 0.9962017822293768,
+                "who_score": 0.2278640899330554,
+                "healthiness_increment": 9.109758235081028,
+                "sustainability_score": 0.4458943358905959,
+                "sustainability_increment": 8.34860766550906,
+                "sustainameal_score": 0.3804852621033338,
+                "sustainameal_score_increment": 8.484574904447673
+            }
+        ]
+    },
+    {
+        "recipe_name": "Pad Si-Iew",
+        "recipe_id": 98304,
+        "sustnability_score": 0.5607258143,
+        "sustnability_label": 2,
+        "who_score": 0.0896722325,
+        "healthiness_label": 2,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                140746,
+                "\"the Best \" Beef Stroganoff",
+                0.9879617540906844
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "\"the Best \" Beef Stroganoff",
+                "similarity_score": 0.9879617540906844,
+                "who_score": 0.0849673202614379,
+                "healthiness_increment": -5.24678837052054,
+                "sustainability_score": 0.39651642338881143,
+                "sustainability_increment": -9.733729800206838,
+                "sustainameal_score": 0.3030516924505994,
+                "sustainameal_score_increment": -9.372759325122107
+            }
+        ]
+    },
+    {
+        "recipe_name": "Creamy Greek Tomato Noodle Soup",
+        "recipe_id": 322051,
+        "sustnability_score": 0.6394235372,
+        "sustnability_label": 2,
+        "who_score": 0.18402777780000001,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                409534,
+                "Best Stromboli",
+                0.9815521905754989
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Best Stromboli",
+                "similarity_score": 0.9815521905754989,
+                "who_score": 0.2014652014652014,
+                "healthiness_increment": 9.47543023014721,
+                "sustainability_score": 0.6898658930298613,
+                "sustainability_increment": 91.32305187877247,
+                "sustainameal_score": 0.5433456855604634,
+                "sustainameal_score_increment": 76.63353107148306
+            }
+        ]
+    },
+    {
+        "recipe_name": "Taco Stuffed Pasta Shells",
+        "recipe_id": 155010,
+        "sustnability_score": 0.6472272197000001,
+        "sustnability_label": 2,
+        "who_score": 0.244812145,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                151699,
+                "Taco-Stuffed Pasta Shells",
+                1.0
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Taco-Stuffed Pasta Shells",
+                "similarity_score": 1.0,
+                "who_score": 0.2443977591036414,
+                "healthiness_increment": -0.1692669037278221,
+                "sustainability_score": 0.3527727802949564,
+                "sustainability_increment": 0.0,
+                "sustainameal_score": 0.3202602739375619,
+                "sustainameal_score_increment": -0.038802047710057797
+            }
+        ]
+    },
+    {
+        "recipe_name": "Sara's Pasties",
+        "recipe_id": 323976,
+        "sustnability_score": 0.5373136836,
+        "sustnability_label": 2,
+        "who_score": 0.2141251285,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                447597,
+                "Super Bowl Wedge",
+                0.9881451670064741
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Super Bowl Wedge",
+                "similarity_score": 0.9881451670064741,
+                "who_score": 0.1691609977324263,
+                "healthiness_increment": -20.99899766916415,
+                "sustainability_score": 0.7162441497881443,
+                "sustainability_increment": 54.801238846445365,
+                "sustainameal_score": 0.5521192041714289,
+                "sustainameal_score_increment": 42.25551533975492
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hawaiian Teriyaki Burgers",
+        "recipe_id": 90813,
+        "sustnability_score": 0.5659809977,
+        "sustnability_label": 2,
+        "who_score": 0.2103487064,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                394139,
+                "Cabinkat's Favorite Low-Fat Sloppy Joes",
+                0.9867872350516209
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Cabinkat's Favorite Low-Fat Sloppy Joes",
+                "similarity_score": 0.9867872350516209,
+                "who_score": 0.1417340521114105,
+                "healthiness_increment": -32.61948003901393,
+                "sustainability_score": 0.7364249234078322,
+                "sustainability_increment": 69.6757329899802,
+                "sustainameal_score": 0.5580176620189056,
+                "sustainameal_score_increment": 52.08242538038339
+            }
+        ]
+    },
+    {
+        "recipe_name": "Taco Ritos",
+        "recipe_id": 40879,
+        "sustnability_score": 0.676685918,
+        "sustnability_label": 2,
+        "who_score": 0.2057597575,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                33739,
+                "Cheesy Italian Sausage & Pepper Loaves",
+                0.9943149253745073
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Cheesy Italian Sausage & Pepper Loaves",
+                "similarity_score": 0.9943149253745073,
+                "who_score": 0.2108912321248013,
+                "healthiness_increment": 2.4939155759393405,
+                "sustainability_score": 0.6738690161498837,
+                "sustainability_increment": 108.42550749494144,
+                "sustainameal_score": 0.5349756809423589,
+                "sustainameal_score_increment": 85.72462955740464
+            }
+        ]
+    },
+    {
+        "recipe_name": "Irish Pub Meatloaf",
+        "recipe_id": 476212,
+        "sustnability_score": 0.6517128851,
+        "sustnability_label": 2,
+        "who_score": 0.1852925672,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                243487,
+                "Kittencal's Rotisserie Chicken for the Grill (Or Small Turkey)",
+                0.9968939864649815
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Kittencal's Rotisserie Chicken for the Grill (Or Small Turkey)",
+                "similarity_score": 0.9968939864649815,
+                "who_score": 0.2168508287292817,
+                "healthiness_increment": 17.03158523455125,
+                "sustainability_score": 0.8390205217176652,
+                "sustainability_increment": 140.89909899010877,
+                "sustainameal_score": 0.6523696138211501,
+                "sustainameal_score_increment": 117.90050979280787
+            }
+        ]
+    },
+    {
+        "recipe_name": "Chili for 2 ( or 4 )",
+        "recipe_id": 396014,
+        "sustnability_score": 0.5548835385,
+        "sustnability_label": 2,
+        "who_score": 0.26817538900000004,
+        "healthiness_label": 0,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                292108,
+                "Chili Con Pollo",
+                0.9978084848546294
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Chili Con Pollo",
+                "similarity_score": 0.9978084848546294,
+                "who_score": 0.2795159386068477,
+                "healthiness_increment": 4.228780904557661,
+                "sustainability_score": 0.9056739795286108,
+                "sustainability_increment": 103.46899244923284,
+                "sustainameal_score": 0.7178265672520818,
+                "sustainameal_score_increment": 83.10307558207019
+            }
+        ]
+    },
+    {
+        "recipe_name": "Argentine Beef Stew",
+        "recipe_id": 45121,
+        "sustnability_score": 0.6278126131,
+        "sustnability_label": 2,
+        "who_score": 0.11960486320000001,
+        "healthiness_label": 2,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                257830,
+                "Susan's Harvest Stew",
+                0.9865291930091195
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Susan's Harvest Stew",
+                "similarity_score": 0.9865291930091195,
+                "who_score": 0.1795863506692999,
+                "healthiness_increment": 50.149706150444,
+                "sustainability_score": 0.37194814999603065,
+                "sustainability_increment": -0.06427862045418295,
+                "sustainameal_score": 0.3142396101980114,
+                "sustainameal_score_increment": 6.014244535871494
+            }
+        ]
+    },
+    {
+        "recipe_name": "Beef Casserole With Creamy Cheese Pasta",
+        "recipe_id": 39330,
+        "sustnability_score": 0.662804916,
+        "sustnability_label": 2,
+        "who_score": 0.2030940295,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                351026,
+                "Spaghetti With Cheese Burgers (Yummm)",
+                0.9918458676550119
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Spaghetti With Cheese Burgers (Yummm)",
+                "similarity_score": 0.9918458676550119,
+                "who_score": 0.2226842791911285,
+                "healthiness_increment": 9.645901334646386,
+                "sustainability_score": 0.36206312103923455,
+                "sustainability_increment": 7.374970214336471,
+                "sustainameal_score": 0.32024946848480274,
+                "sustainameal_score_increment": 7.84089675054676
+            }
+        ]
+    },
+    {
+        "recipe_name": "Crazy Patties",
+        "recipe_id": 122869,
+        "sustnability_score": 0.5741830304000001,
+        "sustnability_label": 2,
+        "who_score": 0.2284946237,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                380484,
+                "Yummy Baked Stuffed Chicken",
+                0.9969164440167542
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Yummy Baked Stuffed Chicken",
+                "similarity_score": 0.9969164440167542,
+                "who_score": 0.2099622457678723,
+                "healthiness_increment": -8.11064067570761,
+                "sustainability_score": 0.6776633646771101,
+                "sustainability_increment": 59.14428334406273,
+                "sustainameal_score": 0.5373530290043387,
+                "sustainameal_score_increment": 46.56937411113986
+            }
+        ]
+    },
+    {
+        "recipe_name": "Bademjan - Delicious Persian Stew",
+        "recipe_id": 263437,
+        "sustnability_score": 0.7564214448000001,
+        "sustnability_label": 2,
+        "who_score": 0.2262173492,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                193646,
+                "Vermont Style Chili",
+                0.9940759523544443
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Vermont Style Chili",
+                "similarity_score": 0.9940759523544443,
+                "who_score": 0.2397602397602397,
+                "healthiness_increment": 5.986671916821585,
+                "sustainability_score": 0.9058999885961906,
+                "sustainability_increment": 271.91286715492464,
+                "sustainameal_score": 0.7060580639454053,
+                "sustainameal_score_increment": 196.20232871324362
+            }
+        ]
+    },
+    {
+        "recipe_name": "Hamburger Hash Brown Recipe",
+        "recipe_id": 393660,
+        "sustnability_score": 0.6292024754000001,
+        "sustnability_label": 2,
+        "who_score": 0.22562018820000002,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                139136,
+                "Mom's Meat Pies",
+                0.9808215103884403
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Mom's Meat Pies",
+                "similarity_score": 0.9808215103884403,
+                "who_score": 0.2245723532131299,
+                "healthiness_increment": -0.46442430098622256,
+                "sustainability_score": 0.4645560884355453,
+                "sustainability_increment": 25.285649893588086,
+                "sustainameal_score": 0.39256096786882066,
+                "sustainameal_score_increment": 19.959595781179388
+            }
+        ]
+    },
+    {
+        "recipe_name": "Garlic Potato Topped Stroganoff Shepherd's Pie",
+        "recipe_id": 114083,
+        "sustnability_score": 0.6054157048000001,
+        "sustnability_label": 2,
+        "who_score": 0.2030275369,
+        "healthiness_label": 1,
+        "k": 1,
+        "nutrients": "calories [cal], totalFat [g], saturatedFat [g], cholesterol [mg], sodium [mg], dietaryFiber [g], sugars [g], protein [g]",
+        "match_all_tags": false,
+        "similar_recipes": [
+            [
+                342135,
+                "Tater-Topped Casserole",
+                0.9786856532242838
+            ]
+        ],
+        "ordered_by_sustainameal": [
+            {
+                "title": "Tater-Topped Casserole",
+                "similarity_score": 0.9786856532242838,
+                "who_score": 0.2083107007061379,
+                "healthiness_increment": 2.602190763690106,
+                "sustainability_score": 0.3552938792966607,
+                "sustainability_increment": -9.957420087874674,
+                "sustainameal_score": 0.3111989257195038,
+                "sustainameal_score_increment": -7.688227346984624
+            }
+        ]
+    }
+]
