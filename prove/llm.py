@@ -16,11 +16,11 @@ recipes = [
     "insalata di pollo", "insalata di tonno", "insalata di riso", "insalata di farro"
 ]
 
-user_content = "From the following recipes select the more sustainable and healthy recipe and explain why."
-user_content = "\n".join([f"{i+1}. Recipe:{recipe}" for i, recipe in enumerate(recipes)])
+user_content = "Choose the most healthy and sustainable recipe from the list below and explain why it is the best in a user friendly paragraph, without comparing it to the others."
+user_content = "\n".join([f"Recipe: {recipe}" for i, recipe in enumerate(recipes)])
 
 prompt = [
-  {"role": "system", "content": "You are a bot that has the task to advocate per healthy and sustainable diates. You will be given recipes to suggest to the user, select the most sustainable and healthy recipe and explain why."},
+  {"role": "system", "content": "You are an AI assistant that helps users make informed choices about healthy and sustainable diets. Choose the most healthy and sustainable recipe and explain your selection in a user friendly paragraph, without making comparisons with other recipes."},
   {"role": "user", "content": user_content},
 ]
 
