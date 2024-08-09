@@ -9,6 +9,7 @@ nf4_config = BitsAndBytesConfig(
    bnb_4bit_use_double_quant=True,
    bnb_4bit_compute_dtype=torch.bfloat16
 )
+
 model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 
 recipes = [
@@ -17,7 +18,7 @@ recipes = [
 ]
 
 user_content = "Choose the most healthy and sustainable recipe from the list below and explain why it is the best in a user friendly paragraph, without comparing it to the others."
-user_content = "\n".join([f"Recipe: {recipe}" for i, recipe in enumerate(recipes)])
+user_content += "\n".join([f"Recipe: {recipe}" for i, recipe in enumerate(recipes)])
 
 prompt = [
   {"role": "system", "content": "You are an AI assistant that helps users make informed choices about healthy and sustainable diets. Choose the most healthy and sustainable recipe and explain your selection in a user friendly paragraph, without making comparisons with other recipes."},
@@ -35,4 +36,9 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 
 outputs = model.generate(inputs, do_sample=True, max_new_tokens=256)
-print(tokenizer.batch_decode(outputs, skip_special_tokens=True))
+response = tokenizer.batch_decode(outputs, skip_special_tokens=True)[0]
+
+response_start = response.find("assistant\n\n") + len("assistant\n\n")
+clean_response = response[response_start:]
+
+print(clean_response)
